@@ -1,6 +1,6 @@
 # Sprint
 
-Sprint is an innovative onboarding tool designed to simplify and streamline the process of getting software teams up and running. It offers two main features that are aimed at enhancing the onboarding experience for both managers and team members:
+Sprint is a powerful desktop application built using ElectronReact, designed to enhance the onboarding process for software teams. It operates locally on your machine, seamlessly connecting to a FastAPI API hosted on Google Cloud Platform (GCP). Furthermore, Sprint leverages MongoDB as its robust database system. It offers two main features that are aimed at enhancing the onboarding experience for both managers and team members:
 
 ## Technology Stack Recommendation Engine
 Sprint has implemented a cutting-edge technology stack recommendation engine that leverages state-of-the-art natural language processing techniques. This engine is powered by a fine-tuned BERT transformer model, which is capable of understanding project descriptions with remarkable accuracy. By analyzing project descriptions, it provides intelligent and context-aware technology stack suggestions.
